@@ -6,7 +6,7 @@ import java.awt.event.*;
 /**
  * TwoSortsPanel.java --- Draws rectangles using array of integers and sorts the arrays.
  *
- * @author    Cinzia Ferri and Justin Lee
+ * @author    Cinzia Ferri
  * @version   1.0
  * @due       2016-11-22
  */
