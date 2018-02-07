@@ -1,6 +1,6 @@
 /**
  
- * @author Cinzia Ferri and Justin Lee
+ * @author Cinzia Ferri 
  * @version 1.0
  * @since 2016-11-09
  
