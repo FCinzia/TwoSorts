@@ -21,7 +21,7 @@ import javax.swing.JFrame;
 /**
  * TwoSorts.java --- Two Sorts Driver
  *
- * @author    Cinzia Ferri and Justin Lee
+ * @author    Cinzia Ferri 
  * @version   1.0
  * @due       2016-11-22
  */
